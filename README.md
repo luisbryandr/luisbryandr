@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the ins and outs of the Job Search process  ...
 - 📫 How to reach me: 
   <a href=https://www.linkedin.com/in/luis-dominguez-8395b0193> LinkedIn!</a> ...
-- You can find some of what I've learned so far in my journey, below!! 
+- You can find some of what I've learned so far in my journey, below!!  
 <!--
 **luisbryandr/luisbryandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
