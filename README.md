@@ -1,4 +1,4 @@
-### Hola! I am Luis Bryan Dominguez Ramirez 👋
+### Hi! I am Luis Bryan Dominguez Ramirez 👋
 
 - 🔭 I’m currently working on landing my first job as a full time front-end developer while improving my skills in React.js
 - 🌱 I’m currently working on my portoflio and exhibition projects ...
