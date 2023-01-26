@@ -1,6 +1,6 @@
 ### Hi! I am Luis Bryan Dominguez Ramirez 👋
 
-- 🔭 I’m currently working on landing my first job as a full time front-end developer while improving my skills in React.js
+- 🔭 I’m currently working on becoming the best programmer I can be in order to add value to others
 - 🌱 I’m currently working on my portoflio and exhibition projects ...
 - 📫 How to reach me: 
   <a href=https://www.linkedin.com/in/luis-dominguez-8395b0193> LinkedIn!</a> ...
