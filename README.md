@@ -4,9 +4,8 @@
 - 🌱 I’m currently working on  strengthening my portoflio, and working on my React.js skills...
 - 📫 How to reach me: 
   <a href=https://www.linkedin.com/in/luis-dominguez-8395b0193> LinkedIn!</a> ...
-- You can find some of what I've learned so far in my journey, below!!
 - 📄 Know about my experiences:  <a href=https://luisbdominguez.vercel.app> Resume </a>
-- ⚽  Fun fact: I love watching and playing futbol! oh and big Messi fan!
+- ⚽ Fun fact: I love watching and playing futbol! oh and big Messi fan!
 <!--
 **luisbryandr/luisbryandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
