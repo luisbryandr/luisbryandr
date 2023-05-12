@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Luis Bryan Dominguez Ramirez</h1>
-<h3 align="center">A passionate frontend developer from Charlotte, NC</h3>
+<h3 align="center">A passionate developer from Charlotte, NC</h3>
 
 - 🔭 I’m currently working on [My Favorite Teams app](https://favorite-sports-teams.pages.dev/)
 
