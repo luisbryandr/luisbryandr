@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, DSA, and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://luisbdominguez.vercel.app](https://luisbdominguez.vercel.app)
+- 👨‍💻 Catch some of my projects on [https://luisbdominguez.vercel.app](https://luisbdominguez.vercel.app)
 
 - 📫 How to reach me, **luisbdominguezr@gmail.com**
 
