@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Luis Bryan Dominguez Ramirez</h1>
 <h3 align="center">A passionate developer from Charlotte, NC</h3>
 
-- 🔭 I’m currently working on [My Favorite Teams app](https://favorite-sports-teams.pages.dev/)
+- 🔭 I’m currently working on [My Favorite Teams app](https://favorite-sports-teams.pages.dev/) and my first Freelance project!
 
 - 🌱 I’m currently learning **React.js, DSA, and Node.js**
 
