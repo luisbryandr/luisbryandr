@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, DSA, and Node.js**
 
-- 🤝 I’m looking for help with **landing my first opportunity to prove myself**
+- 🤝 I’m looking for help with **landing my first professional opportunity **
 
 - 👨‍💻 All of my projects are available at [https://luisbdominguez.vercel.app](https://luisbdominguez.vercel.app)
 
